@@ -1,3 +1,11 @@
+ax_thread_snooper.ko
+ax_affinity_guard.ko
+ax_boost.ko
+ax_atcm.ko
+ax_frame_boost.ko
+ax_burst_sched.ko
+ax_binder_ux.ko
+ax_binder_obs.ko
 va_macro_dlkm.ko
 lzo-rle.ko
 wcd_core_dlkm.ko
