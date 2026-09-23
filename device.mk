@@ -32,6 +32,10 @@ PRODUCT_PACKAGES += \
     SystemUIResDevice \
     WifiResDevice
 
+# Spatial Audio
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.audio.spatializer_enabled=true
+
 # Audio
 PRODUCT_PACKAGES += \
     audio_amplifier.lahaina \
